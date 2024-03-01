@@ -12,8 +12,20 @@ h1 {
     font-size: 3vw;
 }
 
-#foto-perfil {
-    border-radius: 50%; 
+
+#foto {
+    width: 200px;
+    height: 200px;
+    background-image: url('../images/Charles.jpg');
+    background-size: 100%;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#foto-alinhamento {
+    background-color: red;
+    width: 33%;
+    display: inline-block;
 }
 
 hr {
@@ -23,3 +35,4 @@ hr {
 a {
     text-decoration: none;
 }
+
