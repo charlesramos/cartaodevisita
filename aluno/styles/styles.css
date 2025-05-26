@@ -1,0 +1,54 @@
+body {
+	background-color: #efeef0;
+	padding-left: 2%;
+	padding-right: 2%;
+	}
+.navigator {
+	display:flex;
+	align-items: center;
+}
+.navbar-menu {
+	display: flex;
+	align-items: center;
+	list-style: none;
+	
+}
+h2 {
+	padding-left: 4%;
+	font-family: "Bungee", sans-serif;
+	color:rgb(0, 136, 255);
+	font-weight: 400;
+	font-style: normal;
+	}
+.desafio {
+	background-color: rgb(19, 12, 116);
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-top: 2%;
+	border-radius: 2em;
+}
+.pdesafio {
+	padding-left:2%;
+	padding-right: 2%;
+	color:azure;
+	font-family: "Fredoka", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	font-variation-settings:"wdth" 100;
+	text-indent: 4em;
+}
+nav {
+	background-color: #efeef000;
+	padding-top: 1.5em;
+}
+navbar-menu.a{
+	color:aqua;
+}
+footer{
+	text-align: center;
+}
+
+footer {
+	padding-top:1%;
+}
